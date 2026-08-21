@@ -1,7 +1,7 @@
 # essential-chromium-extensions
 A curated collection of essential browser extensions for Chromium-based browsers -  for privacy, ad-blocking, and productivity. Skip reinventing the wheel—install and go!
 
-- Ads & trackers: https://github.com/p2plabsxyz/ghostery-extension
+- Ads & trackers: https://github.com/p2plabsxyz/uBlock-mv3
 - Cookies: https://github.com/p2plabsxyz/consent-autodeny
 - Translate: https://github.com/translate-tools/linguist
 - Archive: https://github.com/p2plabsxyz/wayback-machine-extension
